@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c42c95bb0894af440a8837f4201d4252
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - visualTree: {fileID: 9197481963319205126, guid: 2aeee9f757c4ef14d9626cd0629367f1, type: 3}
+  - CRTMatreial: {fileID: 2100000, guid: 97317d82101b049498f638c970d8ab29, type: 2}
+  - CustomRenderTexture: {fileID: 8600000, guid: 690773000b332014c814ed5f9c01917b, type: 2}
+  - data: {fileID: 11400000, guid: 3195daa7d6c96424981794a8970f0060, type: 2}
+  - SuffixToChanal: {fileID: 11400000, guid: f7f87f7e15ecb204e87cf426eec4db97, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
