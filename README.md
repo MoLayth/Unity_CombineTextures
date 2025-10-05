@@ -16,7 +16,7 @@ It’s designed to optimize materials by reducing the number of texture samplers
 ---
 
 ## 📦 Installation
-1. Copy the `CombineTexture.cs` script and its related assets (`VisualTreeAsset`, `Material`, `CustomRenderTexture`, and data classes) into your Unity project under `Assets/Editor/CombineTexture/`.
+1. Just put the **`CombineTextureWindow`** folder inside your project’s **`Editor`** folder.
 2. In Unity, open the menu:  
    **Tools → Combine Texture**
 3. The editor window will appear.
